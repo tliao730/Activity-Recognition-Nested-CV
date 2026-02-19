@@ -21,3 +21,5 @@ Activity_Recognition/
 ├── main.py                     # Entry point for running experiments
 ├── requirements.txt            # List of dependencies
 └── README.md
+
+# echo "This is a practice branch for PR." > BRANCH_PRACTICE.md
